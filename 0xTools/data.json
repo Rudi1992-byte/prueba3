@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Website Name",
+      "value": "0xFactory"
+    },
+    {
+      "id": 2,
+      "name": "twitter",
+      "value": "https://twitter.com/"
+    },
+    {
+      "id": 3,
+      "name": "facebook",
+      "value": "https://www.facebook.com/"
+    },
+    {
+      "id": 4,
+      "name": "telegram",
+      "value": "https://t.me/ZeroxFactory"
+    }
+
+  ]
